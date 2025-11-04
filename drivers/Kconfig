@@ -268,4 +268,6 @@ source "drivers/security/samsung/tzic/Kconfig"
 source "drivers/spu_verify/Kconfig"
 
 source "drivers/lindroid-drm/Kconfig"
+
+source "drivers/lindroid-drm/Kconfig"
 endmenu
